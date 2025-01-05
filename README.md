@@ -1,0 +1,2 @@
+# Ruby Getter/Setter Bug
+This example demonstrates a common misconception in Ruby regarding getters and setters.  If you only define a getter method, you cannot directly assign a new value to it.  This leads to unexpected behavior and errors.  The solution demonstrates the correct approach to creating both getter and setter methods for a class variable.
